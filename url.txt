@@ -1,2 +1,2 @@
 link setelah deploy streamlit 
-https://dashboard-bikesharing01.streamlit.app/
+https://dashboard-bikesharing.streamlit.app/
